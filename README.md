@@ -94,6 +94,5 @@ Project concept and musical direction: Qianyu Zheng.
 
 Music programming environment: TunePad.
 
-ChatGPT was used to support the development and revision of Python code, explain programming concepts, and organise my personal listening feedback and project notes.
-
+I used ChatGPT to help me understand the course content and assignment requirements, organise my listening feedback and project notes, and get support with Python code when needed. I listened to and compared the different versions myself before choosing the final music.
 The final musical versions were selected based on my own listening and evaluation.
